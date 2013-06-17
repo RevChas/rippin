@@ -85,3 +85,6 @@ I have found a few shows that do something funky with DVD extras. All of the ext
 I have developed and refined these tools over the past few weeks while ripping a bunch of TV show DVDs to import into iTunes. I have considered working on a front-end tool to enter information into the .dat files, but I haven't had the inclination to spend that much development time on it. If you're interested in doing that, I'd be interested in including that in this repo in the future.
 
 
+Copyright 2013 by Charles Herbig
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">rippin</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Charles Herbig</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/RevChas/rippin" rel="dct:source">https://github.com/RevChas/rippin</a>
