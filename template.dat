@@ -1,0 +1,22 @@
+# Copyright 2013 by Charles Herbig
+# See copyright notice in the README.md file
+# Everything is separated by tabs
+# Lines starting with # and blank lines are skipped
+# Lines starting with _eject output a line to eject the last disk read
+# Lines starting with _workingdir change the base directory for output
+#
+#Volume Track   Audio   Show    Stik    Episode#    Season# Art     Episode Title
+#1      2       3       4       5       6           7       8       9
+FLAMING_WOMBATS_S7_D1	3	1	Flaming Wombats	10	1	7	~/images/fwombat.jpg	Wombats in Love
+FLAMING_WOMBATS_S7_D1	4	1	Flaming Wombats	10	2	7	~/images/fwombat.jpg	The Furry and the Dead
+FLAMING_WOMBATS_S7_D1	5	1	Flaming Wombats	10	3	7	~/images/fwombat.jpg	The Eucalyptus Chef
+FLAMING_WOMBATS_S7_D1	6	1	Flaming Wombats	10	4	7	~/images/fwombat.jpg	Mano A Marsupial
+FLAMING_WOMBATS_S7_D1	7	1	Flaming Wombats	10	5	7	~/images/fwombat.jpg	The Australian Connection
+FLAMING_WOMBATS_S7_D1	10	1	Flaming Wombats	10	101	7	~/images/fwombat.jpg	Gag Reel
+_eject
+FLAMING_WOMBATS_S7_D2	3	1	Flaming Wombats	10	6	7	~/images/fwombat.jpg	Nocturnal Rendezvous
+FLAMING_WOMBATS_S7_D2	4	1	Flaming Wombats	10	7	7	~/images/fwombat.jpg	Let That Be Your Last Burrow
+FLAMING_WOMBATS_S7_D2	5	1	Flaming Wombats	10	8	7	~/images/fwombat.jpg	The Claws That Dig, The Teeth That Bite
+FLAMING_WOMBATS_S7_D2	6	1	Flaming Wombats	10	9	7	~/images/fwombat.jpg	Wombat Day
+FLAMING_WOMBATS_S7_D2	7	1	Flaming Wombats	10	102	7	~/images/fwombat.jpg	Making Flaming Wombats
+
