@@ -26,10 +26,12 @@ The .dat files contain the data about the shows and which DVD discs they are on 
 
 Before you start, edit the rip-and-tag.awk script and make sure the values in the BEGIN block are OK:
 
+```awk
 workingdir = "$HOME/rips"
 importdir = "$HOME/import"
 hbc = "/Applications/HandBrakeCLI"
 atomp = "/usr/local/bin/atomicparsley"
+```
 
 The script will put the initial rips into the workingdir directory, organized by show and season. Then the shows will be tagged and placed into the importdir directory.
 
